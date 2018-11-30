@@ -1,0 +1,1 @@
+php artisan make:view user --resource --extends=user::layouts.master --section="title:User Manager" --section=content
